@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 
 ### Hello!
 
-Just experimenting with this odd new little GitHub feature. One of these days I should really do more with the repos here.
+Just experimenting with this odd new little GitHub feature. One of these days I should really do more with the repos here. These days I spend all my time keeping The Cloud working for AWS.
+
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/michaelpatrick2/)](https://www.linkedin.com/in/michaelpatrick2/)
