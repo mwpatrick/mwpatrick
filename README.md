@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **mwpatrick/mwpatrick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hello!
+
+Just experimenting with this odd new little GitHub feature. One of these days I should really do more with the repos here.
